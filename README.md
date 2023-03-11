@@ -4,5 +4,11 @@ Ahora, me gustaría mostrarles algunas de las imágenes que he subido a mi repos
 
 ![archlinux](4K/1776171.png)
 
+![parrot](4K/3069128.png)
 
-Como pueden ver en estas imágenes de ejemplo, la calidad y la resolución son realmente impresionantes. Las imágenes tienen una gran cantidad de detalles y colores vibrantes que se ven increíbles en pantallas 4K. Además, también he incluido algunas imágenes que son más oscuras, lo que las hace ideales para usar como fondos de pantalla en escritorios Linux con temas oscuros.
+![ubuntu](4K/5158232.jpg)
+
+![kali](4K/1301126.png)
+
+
+Como pueden ver en estas imágenes de ejemplo, la calidad y la resolución son realmente impresionantes. Además, también he incluido algunas imágenes que son más oscuras, lo que las hace ideales para usar como fondos de pantalla en escritorios Linux con temas oscuros.
