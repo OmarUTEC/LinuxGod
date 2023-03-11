@@ -12,3 +12,6 @@ Ahora, me gustaría mostrarles algunas de las imágenes que he subido a mi repos
 
 
 Como pueden ver en estas imágenes de ejemplo, la calidad y la resolución son realmente impresionantes. Además, también he incluido algunas imágenes que son más oscuras, lo que las hace ideales para usar como fondos de pantalla en escritorios Linux con temas oscuros.
+
+
+**Estaré subiendo más imágenes en este mismo repositorio. Saludos 🕵️‍♂️**
