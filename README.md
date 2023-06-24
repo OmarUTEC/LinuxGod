@@ -1,4 +1,4 @@
-# LINUX 4K
+# FONDOS LINUX 4K 
 
 Ahora, me gustaría mostrarles algunas de las imágenes que he subido a mi repositorio. Como pueden ver, estas imágenes están diseñadas específicamente para pantallas 4K, lo que significa que tienen una resolución excepcionalmente alta. Esto las hace ideales para usar como fondos de pantalla en sistemas Linux, ya que se verán nítidas y claras incluso en las pantallas más grandes.
 
