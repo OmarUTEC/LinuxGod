@@ -53,5 +53,18 @@ En Linux, todo es un archivo. Incluso los directorios son archivos.
 - `ssh`: Conecta a un host remoto.
 - `netstat`: Muestra las conexiones de red.
 
-## 8. Final <a name="Final"></a>
+## 8. Comandos de uso general <a name="General"></a>
+
+- `cat`: Muestra el contenido de un archivo.
+- `echo`: Muestra un mensaje en la pantalla.
+- `touch archivo.txt`: Crea un archivo con entensión .txt.
+- `cp archivo1 archivo2`: Copia el archivo1 y lo nombra como archivo2.
+- `cp -r directorio1/ directorio2`: Copia el directorio1 y lo nombra como directorio2.
+- `ls directorio`: Muestra el contenido del directorio.
+- `mv archivo1 archivo2`: Mueve el archivo1 y lo nombra como archivo2.
+- `mv directorio1/ ruta/directorio2`: Mueve el directorio1 y lo nombra como directorio2.
+- `mv -v directorio1/ ruta/directorio2`: Muestra el proceso de mover(renombrar) el directorio1 a directorio2.
+- `rm -r directorio`: Elimina el directorio con todo su contenido.
+
+## 9. Final <a name="Final"></a>
 Este es solo el comienzo de lo que se puede hacer con Linux. Hay muchos más comandos y características por descubrir.
