@@ -8,7 +8,8 @@
 5. [Permisos de Archivos](#Permisos)
 6. [Redirecciones y tuberías](#Redirecciones)
 7. [Comandos de Red](#Red)
-8. [Final](#Final)
+8. [Comandos de uso general](#General)
+9. [Final](#Final)
 
 ## 1. Introducción a Linux <a name="Introducción"></a>
 Linux es un sistema operativo de código abierto modelado en el sistema operativo Unix.
