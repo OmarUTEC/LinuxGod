@@ -1,4 +1,4 @@
-# Curso de Comandos Básicos para Linux
+# Guía de Comandos Básicos para Linux
 
 ## Tabla de Contenidos
 1. [Introducción a Linux](#Introducción)
