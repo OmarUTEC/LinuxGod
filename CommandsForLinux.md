@@ -30,6 +30,10 @@ En Linux, todo es un archivo. Incluso los directorios son archivos.
 - `pwd`: Muestra el directorio actual.
 - `cd`: Cambia el directorio.
 - `man`: Muestra la guía del usuario para cualquier comando.
+- `clear`: Limpia la pantalla.
+- `exit`: Cierra la terminal.
+- `mkdir`: Crea un directorio.
+- `rmdir`: Elimina un directorio.`
 
 ## 4. Gestión de Archivos y Directorios <a name="Gestión"></a>
 - `cp`: Copia archivos y directorios.
