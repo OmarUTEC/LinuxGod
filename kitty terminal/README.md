@@ -64,6 +64,7 @@ echo 'kitty.desktop' > ~/.config/xdg-terminals.list
 | [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone) | Sugerencias automáticas de comandos mientras escribes. |
 | [Powerlevel10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#for-new-users) | Tema avanzado y personalizable para Zsh. |
 | [Nerd Fonts](https://www.nerdfonts.com/font-downloads) | Descarga fuentes con íconos para mejorar tu terminal. |
+|https://notxor.nueva-actitud.org/blog/2020/03/13/utilizando-kitty-como-terminal/|
 
 
 
