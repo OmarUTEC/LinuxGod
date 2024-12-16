@@ -1,4 +1,4 @@
-# Instalación de Zsh
+# Comandos de Instalación de Zsh
 
 ```.bash
 sudo apt update
