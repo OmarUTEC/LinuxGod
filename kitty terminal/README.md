@@ -55,3 +55,17 @@ echo 'kitty.desktop' > ~/.config/xdg-terminals.list
 [![Instalación Kitty](Kitty2.png)](https://www.youtube.com/watch?v=ht6PUY7BU6Y)  
 **Video de instalación de Kitty**: Pasos detallados para instalar Kitty.
 
+
+# Recursos Útiles para Zsh y Kitty
+
+| Enlace | Descripción |
+|--------|-------------|
+| [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | Realza la sintaxis en tu terminal para mayor claridad. |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone) | Sugerencias automáticas de comandos mientras escribes. |
+| [Powerlevel10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#for-new-users) | Tema avanzado y personalizable para Zsh. |
+| [Nerd Fonts](https://www.nerdfonts.com/font-downloads) | Descarga fuentes con íconos para mejorar tu terminal. |
+
+
+
+<p style="text-align: center;">By Omarch ✨🚀</p>
+
